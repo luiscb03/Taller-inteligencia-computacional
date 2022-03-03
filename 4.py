@@ -1,5 +1,3 @@
-from tokenize import Double
-
 
 def cuartoPunto():
     taller1 = int(input("Ingrese la nota del primer taller"))
