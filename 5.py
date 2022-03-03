@@ -6,5 +6,4 @@ def primerPunto():
     contabilidad = monto * 0.30
     print(f"La donacion fue de: {monto}  y se repartiran de la siguiente forma: \nTelecomunicaciones = {telecomunicacione} \nSistemas = {sistemas} \nAdministracion = {administracion} \nContabilidad = {contabilidad}")
 
-
 primerPunto()
